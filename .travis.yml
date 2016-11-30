@@ -1,7 +1,15 @@
 language: node_js
 node_js:
     - "4"
+
 before_script:
     - npm install -g grunt-cli
     - npm install -g bower
     - bower install
+
+deploy:
+    - provider: script
+      script: bamba.sh
+      on:
+        branch: master
+      skip_cleanup: true
