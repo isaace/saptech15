@@ -1,4 +1,6 @@
 [![Build Status](https://api.travis-ci.org/bd82/saptech15.svg?style=flat)](https://travis-ci.org/bd82/saptech15)
+[![CircleCI](https://circleci.com/gh/bd82/saptech15.svg?style=svg)](https://circleci.com/gh/bd82/saptech15)
+
 # SAPTech15 - Supercharge Your UI5 Developments By Adding Some Grunt
 
 This repo is a copy of the Openui5 Master-Detail app, the app shows the latest best practice techniques for buildng UI5 apps.
