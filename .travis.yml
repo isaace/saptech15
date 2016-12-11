@@ -10,7 +10,7 @@ before_script:
 
 deploy:
     - provider: script
-      script: bamba.sh
+      script: ./deploy.sh
       on:
         tags: true
         all_branches: true
