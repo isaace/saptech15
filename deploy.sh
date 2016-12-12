@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# git clone https://github.com/bd82/saptech15
+#  git clone https://github.com/bd82/saptech15
 # cd saptech15
 mv .git /tmp/.
 git init
