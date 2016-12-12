@@ -4,6 +4,8 @@
 # cd saptech15
 mv .git /tmp/.
 git init
+git config --global user.email "shahar.soel@gmail.com"
+git config --global user.name "shahars"
 git remote add origin https://P13887420:Abcd1234@git.hana.ondemand.com/p13887420trial/saptech15
 git add .
 git add -u
