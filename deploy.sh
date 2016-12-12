@@ -2,7 +2,8 @@
 
 # git clone https://github.com/bd82/saptech15
 # cd saptech15
-rm –rf .git
+rm -h
+rm –R -f .git
 git remote add origin https://P13887420:Abcd1234@git.hana.ondemand.com/p13887420trial/saptech15
 git add .
 git add -u
